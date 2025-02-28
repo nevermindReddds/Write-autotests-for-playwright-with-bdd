@@ -1,0 +1,9 @@
+{
+  "name": "playwright-bdd-project",
+  "version": "1.0.0",
+  "dependencies": {
+    "@playwright/test": "latest",
+    "playwright-bdd": "latest",
+    "faker": "latest"
+  }
+}
